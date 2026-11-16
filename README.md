@@ -58,3 +58,5 @@ O projeto conta com cobertura de testes unitários e de integração abrangendo:
 - Criação e consulta de animais (`test_animals.py`)
 - Submissão e validação de candidaturas de triagem (`test_candidaturas.py`)
 - Hashing de senhas e autenticação segura com JWT (`test_auth.py`)
+
+<!-- Atualizado para Exp 3 -->
